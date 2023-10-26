@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Themoviebway",
   "description": "Watching film on web themoviedb",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "host_permissions": ["<all_urls>"],
   "permissions": ["contextMenus", "webRequest", "tabs", "activeTab"],
   "icons": {
