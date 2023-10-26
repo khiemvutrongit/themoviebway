@@ -1,6 +1,4 @@
 # Themoviebway
-
-(English)
 Movie viewing tool, the developer does not recommend using it,
 The purpose of developing tools is to develop individual learning,
 All users need to be fully aware of what you are doing before using this tool!!!
@@ -11,7 +9,6 @@ All users need to be fully aware of what you are doing before using this tool!!!
   - Play film on themoviedb on new tab
 
 ## Self-hosting Themoviebway
-
 You can run Themoviebway locally. Here's how: (https://www.youtube.com/watch?v=uLdcXDeIDMk)
 
   1. Download the code. In the web version of GitHub, you can do that by clicking the green "Code" button, and then "Download ZIP".
