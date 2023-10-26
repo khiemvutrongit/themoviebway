@@ -16,3 +16,5 @@ You can run Themoviebway locally. Here's how: (https://www.youtube.com/watch?v=u
   3. Drag the folder that contains the code (make sure it's a folder and not a ZIP file, so unzip first), or click on the "Load unpacked" button and locate the folder.
   4. That's it, you will now be able to use Themoviebway locally. Make sure you pin it on the toolbar by clicking the "puzzle" icon in the toolbar and pinning Themoviebway.
 
+#
+Feel free to reach out to me through email at khiemvutrongit@gmail.com or on [on Twitter](https://twitter.com/dannykv98) if you have any questions or feedback! Hope you find this useful
