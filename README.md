@@ -6,9 +6,9 @@ All users need to be fully aware of what you are doing before using this tool !
 
 ## Features
 
-- Go to web themoviedb.org (The Movie Database)
-- Play film on themoviedb on current tab
-- Play film on themoviedb on new tab
+- [Go to web themoviedb.org](https://www.youtube.com/watch?v=nd-U8Jwi36A) (The Movie Database)
+- [Play film on themoviedb on current tab](https://www.youtube.com/watch?v=nd-U8Jwi36A&t=37s)
+- [Play film on themoviedb on new tab](https://www.youtube.com/watch?v=nd-U8Jwi36A&t=8s)
 
 ## Self-hosting Themoviebway
 
