@@ -12,7 +12,7 @@ All users need to be fully aware of what you are doing before using this tool !
 
 ## Self-hosting Themoviebway
 
-You can run Themoviebway locally. [Here's how](https://www.youtube.com/watch?v=uLdcXDeIDMk):
+You can run Themoviebway locally. [Here's how](https://www.youtube.com/watch?v=hqXoQtTB2rw):
 
 1. Download the code. In the web version of GitHub, you can do that by clicking the green "Code" button, and then "Download ZIP".
 2. Go to chrome://extensions/ in your browser, and enable developer mode.
